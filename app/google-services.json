@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "918185892212",
+    "firebase_url": "https://qr-code---plantas-medicinais-default-rtdb.firebaseio.com",
+    "project_id": "qr-code---plantas-medicinais",
+    "storage_bucket": "qr-code---plantas-medicinais.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:918185892212:android:b8bbe4a479e7a5e110f421",
+        "android_client_info": {
+          "package_name": "com.example.testeapp1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "918185892212-kkr8lsf9ar62mudv2mivt42a1go55spv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3ZplfgG053fpn2rT5UEkOFr3S2NGeF_s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "918185892212-kkr8lsf9ar62mudv2mivt42a1go55spv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
